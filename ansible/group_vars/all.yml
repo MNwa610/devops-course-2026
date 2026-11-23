@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/mnwa610/devops-ci-app"
+app_tag: "d25e8c6382f89d44a02cb4341c8e11666839e233"
+app_container_name: devops-ci-app
+app_host_port: 5000
+app_internal_port: 5000
